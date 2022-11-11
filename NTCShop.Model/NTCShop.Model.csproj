@@ -59,6 +59,10 @@
     <Compile Include="Models\Slide.cs" />
     <Compile Include="Models\SupportOnline.cs" />
     <Compile Include="Models\SystemCinfig.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="Models\TableAttribute.cs" />
+>>>>>>> 24785e16a394668a16392269c56fd6941e4a500d
     <Compile Include="Models\Tag.cs" />
     <Compile Include="Models\VisitorStatistic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
